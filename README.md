@@ -1,6 +1,6 @@
 # Coollege
 
-Coollege platform where educational content and resources are tokenized, enabling users to access quality education materials and earn tokens by contributing to the platform's ecosystem, fostering a community-driven learning environment.
+Coollege platform where educational content and resources are tokenized, enabling users to access quality education materials and earn tokens by contributing to the platform's ecosystem, fostering a community-driven learning environment on Solana Technology.
 
 ## Features:
 - Comprehensive Course List
